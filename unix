@@ -1,0 +1,10 @@
+========================UNIX=====================
+pwd   = present working directory
+cd    = change directory
+ls    = list
+rm    = remove file
+ln    = link to existing file
+mkdir = make directory
+curl  = see url
+cat   = catenate a file-list its path, create a new file
+

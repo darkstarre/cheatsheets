@@ -1,0 +1,34 @@
+#file
+~a string on the hard drive
+  #read a file
+    #~load a string from the hard drive
+    #File.read(filename)
+  #write a file
+    #~save a string to the hard drive
+  #delete a file
+    #File.delete(filename) 
+#directory
+#~ a folder that contains the files
+
+  #delete a directory
+    #Dir.delete(dirname)
+  #get a list of directories
+  #~Dir.glob("dirname/*")
+
+#stream
+~linked list of characters
+
+#Standard Input
+~.gets = reading in a stream
+  #get a line of input
+  #~$stdin.gets  
+
+#Standard Output
+~.puts = writing to a stream
+  #send a line of output
+  ~$stdin.puts
+
+#repository
+~stores files - remote or away from file
+
+

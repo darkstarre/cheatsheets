@@ -1,0 +1,4 @@
+#Specify a method:
+  'some_object.method'
+  'SomeClass#instance_method'
+Edit '~/.pryrc
