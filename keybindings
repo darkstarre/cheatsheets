@@ -1,0 +1,5 @@
+Vim: 'C-z' (control z) to put vim in the background
+
+Shell: 'C-p' go to the previous line
+Shell: j shows jobs
+Shell: fg back into the foreground
