@@ -27,6 +27,7 @@ o   = for going into insert mode on the next line
 A   = insert mode at the end of a line
 I   = insert mode at the beginning of a line
 .   = repeat the last thing I did
+n   = go to the next one that you are on(not like period)
 
 
 
@@ -44,8 +45,22 @@ u = undo
   C-r to redo
 p = put the deleted line below the cursor
 counts can also be used with motions before the operator
-  
+
+#insertion  
 i = inserts text
 a = append text
+<<,>> indent/outdent
+
+c = Change word(w), change line(c$,cc), change end of document(cgg)
+d = Delete word(dw), delete line(d$,dd), delete end of document (dgg)
+ci'whatever' = "inner" text object
+
+
+#############################Visual mode##############################
+* = highlight current word-you can edit from there
+:noh = no highlighting
+V = enters visual mode
+Ctrl V = visual block mode
+
 
 
